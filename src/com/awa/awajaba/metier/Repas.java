@@ -11,7 +11,8 @@ import java.time.LocalDate;
  * @author developpeur
  */
 public class Repas {
-    
+    private int numero;
+    private LocalDate date;
     
   
 }
