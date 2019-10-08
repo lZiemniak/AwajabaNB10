@@ -3,15 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.awa.awajaba.metier;
+package com.awa.awajaba;
 
-import java.time.LocalDate;
 /**
  *
  * @author developpeur
  */
-public class Repas {
+public class AppMain {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
     
-    
-  
 }
